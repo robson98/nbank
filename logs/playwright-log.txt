@@ -1,0 +1,113 @@
+{"level":30,"time":"2021-10-12T04:41:23.248Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Listening on 56479"}
+{"level":30,"time":"2021-10-12T04:41:24.704Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-12T04:41:24.755Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:25.166Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-12T04:41:25.167Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:26.353Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-12T04:41:26.462Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-12T04:41:26.941Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:26.942Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:26.942Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:26.976Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:26.977Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:26.977Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:27.809Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-12T04:41:27.836Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:28.273Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-12T04:41:28.273Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:29.123Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-12T04:41:29.204Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-12T04:41:29.257Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-12T04:41:29.671Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-12T04:41:29.725Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-12T04:41:29.813Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-12T04:41:29.908Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder=\"Valor\"]"}
+{"level":30,"time":"2021-10-12T04:41:29.995Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-12T04:41:30.258Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-10-12T04:41:30.305Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(), \"Robson Mendes\")]/.."}
+{"level":30,"time":"2021-10-12T04:41:30.353Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:30.415Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element xpath=//td[contains(text(), \"Robson Mendes\")]/.. containing 843-657-9484\tEnvio de PIX\tNubank - PIX para Robson Mendes\t12/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-12T04:41:30.423Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:30.466Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element xpath=//td[contains(text(), \"Robson Mendes\")]/.. containing 843-657-9484\tEnvio de PIX\tNubank - PIX para Robson Mendes\t12/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-12T04:41:30.750Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:30.750Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:30.750Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:30.782Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:30.782Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:30.782Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:31.741Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-12T04:41:31.771Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:32.162Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-12T04:41:32.162Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:33.095Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-12T04:41:33.172Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-12T04:41:33.220Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-12T04:41:33.584Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-12T04:41:33.700Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-12T04:41:33.769Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-12T04:41:33.845Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder=\"Valor\"]"}
+{"level":30,"time":"2021-10-12T04:41:33.915Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-12T04:41:34.116Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.media-content"}
+{"level":30,"time":"2021-10-12T04:41:34.147Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:34.183Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:34.592Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:34.592Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:34.592Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:34.621Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:34.621Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:34.621Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:35.530Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-12T04:41:35.566Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:36.073Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-12T04:41:36.074Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:37.033Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-12T04:41:37.109Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-12T04:41:37.164Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-12T04:41:37.596Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.modal-card-title >> text=PIX"}
+{"level":30,"time":"2021-10-12T04:41:37.650Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-12T04:41:37.722Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-12T04:41:37.807Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=input[placeholder=\"Valor\"]"}
+{"level":30,"time":"2021-10-12T04:41:37.879Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Enviar PIX"}
+{"level":30,"time":"2021-10-12T04:41:38.096Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Page|Frame|Element resolved elementSelector: css=.media-content"}
+{"level":30,"time":"2021-10-12T04:41:38.131Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.175Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.201Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.239Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.264Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.301Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.328Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.363Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.376Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.413Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.440Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.477Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.504Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.541Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.568Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.606Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.632Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.669Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.685Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.724Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.740Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.786Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.805Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.861Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.886Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.925Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:38.949Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:38.989Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:39.013Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:39.051Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:39.069Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:39.105Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:39.125Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:39.158Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:39.173Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-12T04:41:39.204Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-12T04:41:39.973Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:39.973Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:39.973Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
+{"level":30,"time":"2021-10-12T04:41:40.008Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active context"}
+{"level":30,"time":"2021-10-12T04:41:40.008Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-12T04:41:40.016Z","pid":2472,"hostname":"DESKTOP-FN4PCOI","msg":"Changed active page"}
